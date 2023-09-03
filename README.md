@@ -5,7 +5,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-### - 🔭 Well, I’m Dipankar Porey and I'm from West Bengal, India.
+### - 🔭 Well, I’m Dipankar Porey & trying configure the processes.
 🌱 Working on various kind of AI model like generative AI (i.e. GANs, LLMs ...) & business analytics problems.
 
 <!-- - 👯 I’m looking to collaborate on ...
