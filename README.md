@@ -5,7 +5,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-### - 🔭 Well, I’m Dipankar Porey.
+### - 🔭 Nice to meet you, I’m Dipankar Porey.
 🌱 Working on various kind of GenerativeAI domain (i.e. GANs, LLMs, Diffusion Models ...) & business analytics problems.
 
 <!-- - 👯 I’m looking to collaborate on ...
