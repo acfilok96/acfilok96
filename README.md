@@ -1,9 +1,7 @@
-### Hi there 👋
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello%20👋%2C%20Nice%20To%20Meet%20You!)](https://git.io/typing-svg)
 
 
-### - 🔭 I’m Dipankar Porey.
+🔭 I’m Dipankar Porey and
 
 🌱 Working on various kind of GenerativeAI domain (i.e. GANs, LLMs, Diffusion Models ...) & business analytics problems.
 
