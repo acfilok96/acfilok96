@@ -3,7 +3,7 @@
 
 ### - 🔭 I’m Dipankar Porey
 
-🌱 Working on various kind of GenerativeAI domain (i.e. GANs, LLMs, Diffusion Models ...) & business analytics problems.
+🌱 Working on various domain of Generative AI (i.e. GANs, LLMs, Diffusion Models ...) & business analytics problems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
